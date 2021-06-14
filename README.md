@@ -35,7 +35,7 @@ Location of Documentation
 |-- README             <- Project README
 |-- bin                <- Compiled binaries
 |   `-- run            <- Project main executable
-|-- build              <- Static objects
+|-- build              <- Static objects and intermediate files
 |-- data               <- Project data
 |   |-- raw            <- Raw data
 |   |-- interim        <- Interm data
