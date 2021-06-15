@@ -1,5 +1,4 @@
-c-project-structure
-===================
+# c-project-structure
 
 Project description
 
