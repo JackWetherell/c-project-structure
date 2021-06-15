@@ -1,5 +1,4 @@
 # 0 "src/other.c"
-# 1 "/home/jack/projects/complete/project-structure/c-project-structure//"
 # 0 "<built-in>"
 # 0 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4

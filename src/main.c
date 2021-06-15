@@ -1,9 +1,10 @@
-#include <stdio.h>
 #include <other.h>
 
 
 int main()
 {
-    printf("%d + %d = %d\n", 1, 1, add(1, 1));   
+    int a = 1;
+    int b = 1;
+    int c = add(a, b);
     return 0;
 }
