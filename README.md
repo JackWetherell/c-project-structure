@@ -5,6 +5,10 @@ Project description
 
 Project image/gif
 
+# Requirements
+--------------
+
+Requirements
 
 # Installation
 --------------
@@ -25,7 +29,6 @@ Project image/gif
 ---------------
 
 Location of Documentation
-
 
 # Directory structure
 ----------------------
