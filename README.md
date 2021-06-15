@@ -6,32 +6,26 @@ Project description
 Project image/gif
 
 # Requirements
---------------
 
 Requirements
 
 # Installation
---------------
 
 `make`
 
 # Usage
--------
 
 `bin/run`
 
 # Example
----------
 
 `bin/run`
 
 # Documentation
----------------
 
 Location of Documentation
 
 # Directory structure
-----------------------
 ```
 .
 |-- Makefile           <- Project makefile
