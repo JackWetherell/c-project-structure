@@ -26,7 +26,6 @@ Location of Documentation
 
 ## Directory structure
 ```
-.
 |-- Makefile           <- Project makefile
 |-- README             <- Project README
 |-- bin                <- Compiled binaries
